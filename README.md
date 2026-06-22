@@ -2,6 +2,9 @@
 
 简化版 Codex 配置切换工具。填写 API 地址、密钥和模型后，一键写入 Codex 配置文件，方便使用第三方中转 API。
 
+
+直接使用教程地址：http://apijiaocheng.clw6688.top/   。一键下载安装
+
 ## 功能介绍
 
 - **接口地址**：默认 `http://api.h5.namawang.com/v1`，可自定义
