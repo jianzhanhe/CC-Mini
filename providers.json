@@ -1,0 +1,8 @@
+[
+  {
+    "name": "云",
+    "base_url": "http://api.h5.namawang.com/v1",
+    "api_key": "sk-1LKzhzQ3GOpdlMkRsQdtcxdPaWVAh0CX0pqznCKleWZpZAJ9",
+    "model": "claude-sonnet-4-6"
+  }
+]
