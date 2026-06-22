@@ -87,6 +87,9 @@ python codex_config.py
 4. 点击 **⚡ 立即切换**
 5. 重启 Codex 使配置生效
 
+6. <img width="504" height="433" alt="image" src="https://github.com/user-attachments/assets/2dd36559-5f57-4a77-81f3-b67dd2e88713" />
+
+
 ## 如何打包成 exe
 
 在项目目录下执行：
